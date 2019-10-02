@@ -1,0 +1,2 @@
+score=d46a <d6
+lives=d4aa |u1
